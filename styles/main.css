@@ -1,0 +1,10 @@
+/* Add reset styles here if needed */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+
+}
